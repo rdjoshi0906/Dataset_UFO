@@ -1,2 +1,2 @@
-# Dataset_UFO/code
-Web scraping code used to create the dataset.
+# Dataset_UFO
+GitHub repository for UFO Data
